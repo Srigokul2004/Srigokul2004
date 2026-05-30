@@ -145,8 +145,10 @@ public class SriGokulR extends Developer {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srigokul2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=f093fb&text_color=c9d1d9&border_radius=12" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srigokul2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages"/>
+<a href="https://github.com/Srigokul2004">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srigokul2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=f093fb&text_color=c9d1d9&border_radius=12&cache_seconds=86400&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srigokul2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&border_radius=12&cache_seconds=86400" />
+</a>
 
 </div>
 
@@ -174,7 +176,7 @@ public class SriGokulR extends Developer {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Srigokul2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/Srigokul2004)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Srigokul2004&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/Srigokul2004)
 
 </div>
 
